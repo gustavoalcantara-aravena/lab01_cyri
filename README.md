@@ -316,6 +316,6 @@ Si encuentras problemas:
 3. **Reiniciar procesos**: Detener y volver a ejecutar servidor y cliente
 4. **Verificar puertos**: Comprobar que el puerto 502 esté disponible
 
-**Desarrollado para**: Laboratorio de Control y Robótica Industrial (CYRI)  
+**Desarrollado para**: Laboratorio de Comunicaciones y Redes Industriales (CYRI)  
 **Versión**: 1.0  
 **Última actualización**: Septiembre 2025
