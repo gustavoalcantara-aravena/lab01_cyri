@@ -182,7 +182,6 @@ CYRI/
 ├── LAB_01/
 │   ├── Server.py                  # Servidor Modbus TCP
 │   └── Cliente.py                 # Cliente con interfaz gráfica
-├── hola_mundo.py                  # Archivo de prueba
 ├── README.md                      # Este archivo
 └── test_cliente_simple.py         # Cliente de prueba
 ```
